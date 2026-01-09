@@ -160,3 +160,19 @@ body {
     color: #469165;
 }
 
+#kv-cta {
+    margin-bottom: 120px;
+}
+
+.kv-cta-box {
+    background: #F7F6F2;
+    padding: 80px 40px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#kv-cta h2 {
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+

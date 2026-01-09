@@ -136,3 +136,27 @@ body {
     margin-bottom: 16px;
 }
 
+#kv-second-brain {
+    margin-bottom: 120px;
+}
+
+.kv-two-column {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.kv-feature-list {
+    list-style: none;
+    margin-top: 24px;
+}
+
+.kv-feature-list li {
+    margin-bottom: 16px;
+    color: #001931;
+}
+
+.kv-feature-list i {
+    color: #469165;
+}
+

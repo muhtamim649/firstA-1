@@ -67,3 +67,32 @@ body {
     font-weight: 500;
 }
 
+#kv-hero {
+    background-image: url(../assets/hero-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.kv-hero-content {
+    max-width: 770px;
+    padding: 170px 0;
+    color: #fff;
+}
+
+#kv-hero h1 {
+    font-size: 72px;
+    font-weight: 700;
+}
+
+#kv-hero h1 span {
+    color: #469165;
+}
+
+.kv-hero-actions {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+

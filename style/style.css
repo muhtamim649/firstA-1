@@ -96,3 +96,43 @@ body {
     gap: 16px;
 }
 
+#kv-structure {
+    margin: 120px 0;
+}
+
+.kv-section-header {
+    text-align: center;
+    margin-bottom: 44px;
+}
+
+.kv-section-header h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.kv-card-grid {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.kv-info-card {
+    max-width: 274px;
+    padding: 70px 24px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.06);
+}
+
+.kv-info-card img {
+    background: #F95555;
+    padding: 14px;
+    border-radius: 50%;
+    margin-bottom: 16px;
+}
+
+.kv-info-card h3 {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+

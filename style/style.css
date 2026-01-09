@@ -176,3 +176,36 @@ body {
     margin-bottom: 16px;
 }
 
+
+#kv-footer {
+    background: #001931;
+    color: #fff;
+}
+
+.kv-footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 120px;
+}
+
+.kv-social-links {
+    list-style: none;
+    display: flex;
+    gap: 16px;
+}
+
+.kv-social-links a {
+    background: #fff;
+    color: #001931;
+    padding: 6px;
+    border-radius: 50%;
+}
+
+.kv-footer-copy {
+    text-align: center;
+    padding: 30px;
+    color: #fafafa;
+}
+
+

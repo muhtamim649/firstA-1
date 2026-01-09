@@ -196,6 +196,7 @@ body {
     list-style: none;
     display: flex;
     gap: 16px;
+    
 }
 
 .kv-social-links a {

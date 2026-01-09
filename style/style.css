@@ -28,11 +28,14 @@ body {
     font-weight: 600;
     cursor: pointer;
     transition: 0.4s;
+    margin-top: 16px;
+    margin-bottom: 16px;
 }
 
 .kv-btn-primary:hover {
     background-color: transparent;
     color: #469165;
+ 
 }
 
 .kv-btn-outline {
